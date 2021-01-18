@@ -35,7 +35,9 @@ Usage:
 !john [command] [value]
 
 Commands:
+
 id: Find a john by its id # (1 - 80)
+
 type: List all johns by type. (sportsmanship, self, foe, hardware, gameplay, meta)
 
 <!-- ROADMAP -->
