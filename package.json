@@ -1,0 +1,14 @@
+{
+  "name": "johnbot",
+  "version": "1.0.0",
+  "description": "Discord Bot that simply displays smash bros johns. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
